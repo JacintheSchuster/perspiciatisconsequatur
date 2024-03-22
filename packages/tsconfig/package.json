@@ -1,0 +1,34 @@
+{
+  "name": "@redduck/helpers-tsconfig",
+  "version": "0.0.3",
+  "description": "Contains RedDuck Software TypeScript configurations.",
+  "keywords": [
+    "redduck",
+    "helpers",
+    "tsconfig",
+    "typescript"
+  ],
+  "author": {
+    "name": "RedDuck Software",
+    "email": "sales@redduck.io",
+    "url": "https://redduck.io"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/RedDuck-Software/helpers#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedDuck-Software/helpers.git",
+    "directory": "packages/tsconfig"
+  },
+  "bugs": {
+    "url": "https://github.com/RedDuck-Software/helpers/issues"
+  },
+  "scripts": {
+    "build": "echo \"No build available.\"",
+    "test": "echo \"No tests available.\"",
+    "lint": "echo \"No lints available.\""
+  },
+  "files": [
+    "tsconfig.base.json"
+  ]
+}
